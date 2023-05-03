@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "highlight.js": "^11.8.0",
+    "marked": "^4.3.0",
+    "mp-html": "^2.4.1",
+    "qrious": "^4.0.2"
+  }
+}
