@@ -89,4 +89,7 @@ npm install
 
 
 ### 详细可联系
+
+VX:shican19930703
+
 ![输入图片说明](rdimg/wx.jpg)

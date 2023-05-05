@@ -195,10 +195,10 @@
 					let contentList = [];
 					contentArr.map(it=>{
 						let obj = {};
-						obj.isCode = /^(javascript|java|go|python|php|c|net)/.test(it);
+						obj.isCode = /^(javascript|java|go|python|php|c|net|xml)/.test(it);
 						obj.content = it;
 						if(obj.isCode){
-							obj.content = marked('```'+contentArr[1]+'```');
+							obj.content = marked('```'+obj.content+'```');
 						}
 						contentList.push(obj)
 					})
