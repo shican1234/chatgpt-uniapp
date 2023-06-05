@@ -1,4 +1,4 @@
-### [文档](https://www.kancloud.cn/momoyu/momoyu/3169622) 
+### [文档](https://www.kancloud.cn/momoyu/momoyu/3169622)  | [WEB演示](https://pc.momoyucm.top)
 ### 项目说明
 - JAVA+unipp开发的chatgpt程序
 - 开发脚手架基于人人开源 https://gitee.com/renrenio/renren-security
@@ -8,7 +8,6 @@
 - 基于GPT3.5 SDK包括了4.0的功能 因为没有4.0的key所以没试过4.0的
 - 具体功能看演示(演示为商业版本)
 - 后台演示地址(此后台修改的在演示前端不会有变化)
-- WEB演示地址：https://pc.momoyucm.top
 - H5演示地址：https://ai.momoyucm.top
 - http://175.178.233.9:9191/
 - 账号:yanshi
