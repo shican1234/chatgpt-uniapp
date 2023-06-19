@@ -5,7 +5,8 @@
 - chatgpt JAVASDK 基于Grt1228大佬开源的,地址https://github.com/Grt1228/chatgpt-java
 - java开发的chatgpt小程序  前端使用uniapp   可打包多端运行  APP  H5  公众号  小程序等 ,三级分销,卡密充值,提供opai的反向代理,
 - 后台包括海报管理,充值配置管理,GPTKEY管理,用户管理,分销提现管理,问答模板配置,AI模配置等
-- 基于GPT3.5 SDK包括了4.0的功能 因为没有4.0的key所以没试过4.0的
+- 基础的CHATPDF功能 会继续完善
+- 可使用三方转发的4.0key，方便申请不了官方4.0的
 - 具体功能看演示(演示为商业版本)
 - 后台演示地址(此后台修改的在演示前端不会有变化)
 - H5演示地址：https://ai.momoyucm.top
@@ -64,6 +65,7 @@ npm install
 
 ### 项目截图(截图内容为商业版本)
 **WEB页面**
+![输入图片说明](rdimg/pc11.png)
 ![输入图片说明](rdimg/pc0.png)
 ![输入图片说明](rdimg/pc1.png)
 ![输入图片说明](rdimg/pc2.png)
